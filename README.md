@@ -38,7 +38,7 @@ about page
 user profile
 <img src="./src/demo_imgs/user_profile.png" alt="user profile" />
 mobile view
-<img src="./src/demo_imgs/home_mobile_view.png" alt="mobile view" />
+<img style="width: 100%" src="./src/demo_imgs/home_mobile_view.png" alt="mobile view" />
 
 -----------------Additional info-----------------
 # Getting Started with Create React App
